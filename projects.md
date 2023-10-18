@@ -15,14 +15,17 @@ I'm grateful to work with the amazing NV team, especially my manager [Jose M. Al
 
 <br>
 ---
+
 ## Clean-label Poisoning Availability Attacks [[<font color=Blue>Paper</font>]](https://ojs.aaai.org/index.php/AAAI/article/view/20902)
 
 <img width="836" alt="image" src="https://github.com/bxz9200/bxz9200.github.io/assets/36553004/e8adf045-04cd-413e-a1b0-f2525975d6c4">
 
-In this project we proposed a clean-label attack that compromise the model availability. We used a GAN model with a triple-loss to generate stealthy and effective poisoned data.
+In this project, we proposed a clean-label attack that compromises the model availability. We used a GAN model with a triple-loss to generate stealthy and effective poisoned data.
 
-<br>
+<be>
+
 ---
+
 ## Class-oriented Poisoning Attacks [[<font color=Blue>Paper</font>]](https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf)
 
 [![Class-oriented Poisoning Attacks](https://img.youtube.com/vi/BFeutstPusk/0.jpg)](https://youtu.be/BFeutstPusk)
