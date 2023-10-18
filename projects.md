@@ -22,7 +22,7 @@ I'm grateful to work with the amazing NV team, especially my manager [Jose M. Al
 
 In this project, we proposed a clean-label attack that compromises the model availability. We used a GAN model with a triple-loss to generate stealthy and effective poisoned data.
 
-<be>
+<br>
 
 ---
 
