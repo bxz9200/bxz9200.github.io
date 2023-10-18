@@ -22,5 +22,5 @@ In this project we proposed a clean-label attack that compromise the model avail
 
 ## Class-oriented Poisoning Attacks
 
-[![Class-oriented Poisoning Attacks](https://img.youtube.com/vi/BFeutstPusk/default.jpg)](https://youtu.be/BFeutstPusk)
+[![Class-oriented Poisoning Attacks](https://img.youtube.com/vi/BFeutstPusk/0.jpg)](https://youtu.be/BFeutstPusk)
 
