@@ -40,10 +40,10 @@ links:
     url: /publications/
   - title: Research
     url: /projects/
-  - title: Awards
-    url: /awards/
-  - title: Misc.
-    url: /hobbies/
+  # - title: Awards
+  #   url: /awards/
+  # - title: Misc.
+  #   url: /hobbies/
   - title: Resources
     url: /blogs/
 
