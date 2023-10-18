@@ -19,7 +19,7 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=wAOPAEoA
 
 
 
----
+
 <br>
 
 
@@ -39,8 +39,8 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=wAOPAEoA
 
 ## Preprint Papers
 
-- **Tan, Weihang**, Sin-Wei Chiu, Antian Wang, Yingjie Lao, and Keshab K. Parhi. ["PaReNTT: Low-Latency Parallel Residue Number System and NTT-Based Long Polynomial Modular Multiplication for Homomorphic Encryption."](https://arxiv.org/abs/2303.02237) arXiv preprint arXiv:2303.02237 (2023).
----
+#- **Tan, Weihang**, Sin-Wei Chiu, Antian Wang, Yingjie Lao, and Keshab K. Parhi. ["PaReNTT: Low-Latency Parallel Residue Number System and NTT-Based Long Polynomial Modular Multiplication for Homomorphic Encryption."](https://arxiv.org/abs/2303.02237) arXiv preprint arXiv:2303.02237 (2023).
+
 
 
 
