@@ -35,7 +35,7 @@ My research interests include Trustworthy AI, particularly data poisoning attack
 - [03/2023] Our paper [Data-Driven Feature Selection Framework for Approximate Circuit Design](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10077732)is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**).
 - [02/2023] Our paper [NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247885) is accepted by 60th Design Automation Conference (**DAC**).
 - [05/2022] I will join <font color=Green>NVIDIA<font> as a Deep Learning Research and Software Intern.
-- [12/2021] Our paper [CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets](https://ojs.aaai.org/index.php/AAAI/article/view/20902) is accepted by Thirty-Sixth AAAI Conference on Artificial Intelligence (**AAAI-22**). <font color=Red>[Code](https://github.com/bxz9200/CLPA)<font>
+- [12/2021] Our paper [CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets](https://ojs.aaai.org/index.php/AAAI/article/view/20902) is accepted by Thirty-Sixth AAAI Conference on Artificial Intelligence (**AAAI-22**). [Code](https://github.com/bxz9200/CLPA)
 - [10/2021] Our paper [Towards Class-oriented Poisoning Attacks against Neural Networks](https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf) is accepted by Winter Conference on Applications of Computer Vision (**WACV**) 2022.
 
 
