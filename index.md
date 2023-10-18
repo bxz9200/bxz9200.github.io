@@ -4,43 +4,50 @@ layout: page
 
 # About Me
 
-Hello World! My name is **Bingyin Zhao**. I am a Ph.D. student in the Department of Electrical and Computer Engineering at Clemson University, under the supervision of [Dr. Yingjie Lao](https://ylao.people.clemson.edu/). I worked as a Deep Learning Research and Software Intern at **NVIDIA** under the supervision of [Dr. Jose M. Alvarez](https://alvarezlopezjosem.github.io/) and [Dr. Zhiding Yu](https://chrisding.github.io/). I received my B.S. and M.S. degrees in Electrical Engineering from Rochester Institute of Technology, Rochester, NY, USA and East China University of Science and Technology, Shanghai, China in 2012 and 2014, respectively.
+Hello World! My name is **Bingyin Zhao**. I am a Ph.D. student in the Department of Electrical and Computer Engineering at Clemson University, under the supervision of [Dr. Yingjie Lao](https://ylao.people.clemson.edu/). I worked as a Deep Learning Research and Software Intern at **NVIDIA** under the supervision of [Dr. Jose M. Alvarez](https://alvarezlopezjosem.github.io/) and [Dr. Zhiding Yu](https://chrisding.github.io/). I received my B.S. and M.S. degrees in Electrical Engineering from Rochester Institute of Technology, Rochester, NY, USA and East China University of Science and Technology, Shanghai, China in 2014 and 2012, respectively.
 
-My research interests include Trustworthy AI, particularly <font color=Blue>data poisoning attacks and countermeasures</font>  and computer vision for autonomous vehicles. I have authored and co-authored several research papers, which have been accepted and published in prestigious conferences and journals, including ICCV'23, AAAI'22, IEEE TCAD, DAC'23, WACV'22, etc. I also serve as a reviewer for top tier AI and machine learning conferences, such as NeurIPS, ICLR, CVPR, ICCV, ECCV, AAAI, etc.
+My research interests include Trustworthy AI, particularly data poisoning attacks and countermeasures and computer vision for autonomous vehicles. I have authored and co-authored several research papers, which have been accepted and published in prestigious conferences and journals, including ICCV'23, AAAI'22, IEEE TCAD, DAC'23, WACV'22, etc. I also serve as a reviewer for top tier AI and machine learning conferences, such as NeurIPS, ICLR, CVPR, ICCV, ECCV, AAAI, etc.
 <br>
 
-## Academic Background
+## 🧑‍🎓Education Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+- **Ph.D.**, Jan. 2018 - Now;
+  - [Clemson University](https://www.clemson.edu/)
+  - Major: Electrical Engineering            
+  - Advisor: Dr. Yingjie Lao
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year Mphil program and graduate in 2025. Looking for PhD position after that.
+- **Master of Science**, September 2014;                                                                              
+  - [Rochester Institute of Technology](https://www.rit.edu/)
+  - Major: Electrical Engineering 
 
-<br>
+- **Bachelor of Science**, July 2012;
+  - [East China University of Science and Technology](https://www.ecust.edu.cn/en/main.psp)
+  - Major: Electrical Engineering                                                                          
 
----
-
-## Research Interests
-
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 <br>
 
 ---
 
-## News and Updates
+## 📮News and Updates
 
-- **Sep 2023：**[DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started internship at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- [07/2023] One paper is accepted by 42nd International Conference on Computer-Aided Design (ICCAD).
+- [02/2023] One paper is accepted by IEEE Transactions on Computers.
+- [02/2023] One paper is accepted by 60th Design Automation Conference (DAC).
+- [01/2023] I will join the University of Minnesota, Twin Cities, as a Postdoctoral Research Associate.
+- [09/2022] I successfully defended my Ph.D. thesis.
+- [07/2022] One paper is accepted by 35th IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFTS).
+- [12/2021] I received the Pramod Subramanyan Presentation Award (Best PhD Presentation Award) at AsianHOST 2021.
+- [10/2021] One paper is accepted by Asian Hardware Oriented Security and Trust Symposium (AsianHOST) 2021.
+- [03/2021] One paper is accepted by IEEE Transactions on Circuits and Systems I.
+- [02/2021] One paper is accepted by IEEE Transactions on Circuits and Systems II.
+- [08/2020] I successfully defended my master's thesis.
+- [05/2020] One paper is accepted by IEEE Computer Society Annual Symposium on VLSI (ISVLSI).
+- [09/2019] One paper is accepted by IEEE International workshop on signal processing systems (SiPS).
+
 
 <br>
+
+<div style="width: 100px; height: 100px;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ocuKrgWRtManHdC7UcFuvhmkdGJ2AYCdQgu-CdoasiM"></script>
+</div>
