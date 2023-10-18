@@ -14,6 +14,7 @@ This is the project I worked on when I interned at NVIDIA. We proposed a novel t
 I'm grateful to work with the amazing NV team, especially my manager [Jose M. Alvarez](https://alvarezlopezjosem.github.io/), my mentor [Zhiding Yu](https://chrisding.github.io/) and [Shiyi Lan](https://voidrank.github.io/).
 
 <br>
+
 ---
 
 ## Clean-label Poisoning Availability Attacks [[<font color=Blue>Paper</font>]](https://ojs.aaai.org/index.php/AAAI/article/view/20902)
