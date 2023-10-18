@@ -9,13 +9,16 @@ title: Publications
 Full list in [Google Scholar](https://scholar.google.com/citations?user=wAOPAEoAAAAJ&hl=en)
 
 ## Journal Publications
-- 
+- **[TCAD'23]** **Bingyin Zhao**, Lin Qiu, and Yingjie Lao, ["Data-Driven Feature Selection Framework for Approximate Circuit Design".](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10077732)  In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), IEEE 2023
 
 <br>
 
 ## Conference Publications
 
+-**[ICCV'23]** **Bingyin Zhao**, Zhiding Yu, Shiyi Lan, Yutao Cheng, Anima Anandkumar, Yingjie Lao, Jose M Alvarez, ["Fully Attentional Networks with Self-emerging Token Labeling".](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Fully_Attentional_Networks_with_Self-emerging_Token_Labeling_ICCV_2023_paper.pdf) In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), pp. 5585-5595. IEEE/CVF 2023
 - **[DAC'23]** Antian Wang, **Bingyin Zhao**, Tan, Weihang, and Yingjie Lao, ["NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation".](https://ieeexplore.ieee.org/abstract/document/10247885)  In 2023 60th ACM/IEEE Design Automation Conference (DAC), pp. 1-6. IEEE 2023
+- **[AAAI'22]** **Bingyin Zhao**, Yingjie Lao, ["CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets".](https://ojs.aaai.org/index.php/AAAI/article/view/20902)  In Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22), pp. 9162-9170. 2022
+- **[WACV'22]** **Bingyin Zhao**, Yingjie Lao, ["Towards Class-oriented Poisoning Attacks against Neural Networks".](https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf)  In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 3741-3750. IEEE/CVF 2022
 
 
 
