@@ -13,7 +13,7 @@ My research interests include Trustworthy AI, particularly data poisoning attack
 
 - **Ph.D.**, Jan. 2018 - Now;
   - [Clemson University](https://www.clemson.edu/)
-  - Major: Electrical Engineering            
+  - Major: Computer Engineering            
   - Advisor: Dr. Yingjie Lao
 
 - **Master of Science**, September 2014;                                                                              
@@ -31,12 +31,9 @@ My research interests include Trustworthy AI, particularly data poisoning attack
 
 ## 📮News and Updates
 
-- [07/2023] One paper is accepted by 42nd International Conference on Computer-Aided Design (ICCAD).
-- [02/2023] One paper is accepted by IEEE Transactions on Computers.
+- [07/2023] Our paper [**Fully Attentional Networks with Self-emerging Token Labeling**](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Fully_Attentional_Networks_with_Self-emerging_Token_Labeling_ICCV_2023_paper.pdf) is accepted by International Conference on Computer Vision (ICCV) 2023.
 - [02/2023] One paper is accepted by 60th Design Automation Conference (DAC).
-- [01/2023] I will join the University of Minnesota, Twin Cities, as a Postdoctoral Research Associate.
-- [09/2022] I successfully defended my Ph.D. thesis.
-- [07/2022] One paper is accepted by 35th IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFTS).
+- [05/2022] I will join NVIDIA as a Deep Learning Research and Software Intern.
 - [12/2021] I received the Pramod Subramanyan Presentation Award (Best PhD Presentation Award) at AsianHOST 2021.
 - [10/2021] One paper is accepted by Asian Hardware Oriented Security and Trust Symposium (AsianHOST) 2021.
 - [03/2021] One paper is accepted by IEEE Transactions on Circuits and Systems I.
