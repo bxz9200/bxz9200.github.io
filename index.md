@@ -4,14 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+Hello World! My name is **Bingyin Zhao**. I am a Ph.D. student in the Department of Electrical and Computer Engineering at Clemson University, under the supervision of [Dr. Yingjie Lao](https://ylao.people.clemson.edu/). I worked as a Deep Learning Research and Software Intern at **NVIDIA** under the supervision of [Dr. Jose M. Alvarez](https://alvarezlopezjosem.github.io/) and [Dr. Zhiding Yu](https://chrisding.github.io/). I received my B.S. and M.S. degrees in Electrical Engineering from Rochester Institute of Technology, Rochester, NY, USA and East China University of Science and Technology, Shanghai, China in 2012 and 2014, respectively.
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
-
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer interning with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
-
+My research interests include Trustworthy AI, particularly <font color=Blue>data poisoning attacks and countermeasures</font>  and computer vision for autonomous vehicles. I have authored and co-authored several research papers, which have been accepted and published in prestigious conferences and journals, including ICCV'23, AAAI'22, IEEE TCAD, DAC'23, WACV'22, etc. I also serve as a reviewer for top tier AI and machine learning conferences, such as NeurIPS, ICLR, CVPR, ICCV, ECCV, AAAI, etc.
 <br>
 
 ## Academic Background
