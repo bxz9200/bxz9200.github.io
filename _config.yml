@@ -34,19 +34,21 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
+  - title: Resume
+    url: BingyinZhaoResume.pdf
   - title: Publications
     url: /publications/
+  - title: Research
+    url: /projects/
   - title: Awards
     url: /awards/
-  - title: Fundings
-    url: /fundings/
-  - title: Hobbies
+  - title: Misc.
     url: /hobbies/
-  - title: Blogs
+  - title: Resources
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: China/Shanghai
 future: true
 highlighter: rouge
 # markdown: kramdown
@@ -75,9 +77,11 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: 
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/10/15 by Hanlin Cai.
+
+# Latest update in 10/18 by Bingyin Zhao.
+# URL: 
