@@ -6,7 +6,7 @@ layout: page
 
 My name is **Bingyin Zhao**. I am a Ph.D. student in the Department of Electrical and Computer Engineering at Clemson University, under the supervision of [Dr. Yingjie Lao](https://ylao.people.clemson.edu/). I worked as a Deep Learning Research and Software Intern at **<font color=Green>NVIDIA</font>** under the supervision of [Dr. Jose M. Alvarez](https://alvarezlopezjosem.github.io/) and [Dr. Zhiding Yu](https://chrisding.github.io/). I received my B.S. and M.S. degrees in Electrical Engineering from Rochester Institute of Technology, Rochester, NY, USA and East China University of Science and Technology, Shanghai, China in 2014 and 2012, respectively.
 
-My research interests include Trustworthy AI, particularly data poisoning attacks and countermeasures and computer vision for autonomous vehicles. I have authored and co-authored several research papers, which have been accepted and published in prestigious conferences and journals, including ICCV'23, AAAI'22, IEEE TCAD, DAC'23, WACV'22, etc. I also serve as a reviewer for multiple AI and machine learning conferences, such as NeurIPS, ICLR, CVPR, ICCV, ECCV, AAAI, etc.
+My research interests include Trustworthy AI, particularly data poisoning attacks and countermeasures and computer vision for autonomous vehicles. I have authored and co-authored several research papers, which have been accepted and published in prestigious conferences and journals, including ICCV'23, AAAI'22, IEEE TCAD, DAC'23, WACV'22, etc. I also serve as a reviewer for multiple computer vision, artificial intelligence and machine learning conferences, such as NeurIPS, ICLR, CVPR, ICCV, ECCV, AAAI, etc.
 <br>
 
 ## 🧑‍🎓Education Background
