@@ -4,7 +4,7 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 ## Self-emerging Token Labeling (STL)
-This [repo](https://github.com/bxz9200/STL) is the unofficial implementation of STL.
+This [repo](https://github.com/NVlabs/STL) is the unofficial implementation of STL.
 
 ## Clean-label Poisoning Availablity Attack (CLPA)
 This [repo](https://github.com/bxz9200/CLPA) is the official implementation of the CLPA attack.
