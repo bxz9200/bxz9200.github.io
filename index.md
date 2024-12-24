@@ -11,7 +11,7 @@ My research interests include Generative AI, Trustworthy AI and Computer Vision.
 
 ## 🧑‍🎓Education Background
 
-- **Ph.D.**, Jan. 2018 - Now;
+- **Ph.D.**, Jan. 2018 - May. 2024;
   - [Clemson University](https://www.clemson.edu/)
   - Major: Computer Engineering            
   - Advisor: Dr. Yingjie Lao
