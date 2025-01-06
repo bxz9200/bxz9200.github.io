@@ -30,7 +30,7 @@ My research interests include Generative AI, Trustworthy AI and Computer Vision.
 ---
 
 ## 📮News and Updates
-- [10/2024] I join National University of Singapore as a Research Fellow, working on synthetic tabular data and security of generative models.
+- [10/2024] I joined National University of Singapore as a Research Fellow, working on synthetic tabular data and security of generative models.
 - [05/2024] I'm Dr. Zhao now.
 - [02/2024] I passed my PhD defense.
 - [07/2023] Our paper [<font color=Blue>Fully Attentional Networks with Self-emerging Token Labeling</font>](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Fully_Attentional_Networks_with_Self-emerging_Token_Labeling_ICCV_2023_paper.pdf) is accepted by International Conference on Computer Vision (**ICCV**) 2023. The code and models can be found at [<font color=Green>NVlabs</font>](https://github.com/NVlabs/STL).
