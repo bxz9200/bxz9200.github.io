@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-My name is **Bingyin Zhao**. I am a Research Fellow at the National University of Singapore, under the supervision of [Dr. Biplab Sikdar](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/). I earned my Ph.D. degree in Computer Engineering from Clemson University, under the supervision of [Dr. Yingjie Lao](https://laogroup.ece.tufts.edu/). I worked as a Deep Learning Software and Research Intern at **<font color=Green>NVIDIA</font>** under the supervision of [Dr. Jose M. Alvarez](https://alvarezlopezjosem.github.io/) and [Dr. Zhiding Yu](https://chrisding.github.io/). I received my M.S. and B.S. degrees in Electrical Engineering from Rochester Institute of Technology, Rochester, NY, USA and East China University of Science and Technology, Shanghai, China in 2014 and 2012, respectively.
+My name is **Bingyin Zhao**. I am a Research Fellow at the National University of Singapore, working with [Dr. Biplab Sikdar](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/). I earned my Ph.D. in Computer Engineering from Clemson University under the supervision of [Dr. Yingjie Lao](https://laogroup.ece.tufts.edu/). I worked as a Deep Learning Software and Research Intern at **<font color=Green>NVIDIA</font>** under the supervision of [Dr. Jose M. Alvarez](https://alvarezlopezjosem.github.io/) and [Dr. Zhiding Yu](https://chrisding.github.io/). I received my M.S. and B.S. degrees in Electrical Engineering from Rochester Institute of Technology, Rochester, NY, USA and East China University of Science and Technology, Shanghai, China in 2014 and 2012, respectively.
 
 My research interests include Generative AI, Trustworthy AI and Computer Vision. I have authored and co-authored several research papers, which have been accepted and published in prestigious conferences and journals, including ICCV'23, AAAI'22, IEEE TCAD, DAC'23, WACV'22, etc. I also serve as a reviewer for multiple computer vision, artificial intelligence and machine learning conferences, such as NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, etc.
 <br>
@@ -30,7 +30,7 @@ My research interests include Generative AI, Trustworthy AI and Computer Vision.
 ---
 
 ## 📮News and Updates
-- [10/2024] I joined National University of Singapore as a Research Fellow, working on synthetic tabular data and security of generative models.
+- [10/2024] I joined the National University of Singapore as a Research Fellow, working on synthetic tabular data and the security of generative models.
 - [05/2024] I'm Dr. Zhao now.
 - [02/2024] I passed my PhD defense.
 - [07/2023] Our paper [<font color=Blue>Fully Attentional Networks with Self-emerging Token Labeling</font>](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Fully_Attentional_Networks_with_Self-emerging_Token_Labeling_ICCV_2023_paper.pdf) is accepted by International Conference on Computer Vision (**ICCV**) 2023. The code and models can be found at [<font color=Green>NVlabs</font>](https://github.com/NVlabs/STL).
