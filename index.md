@@ -1,15 +1,6 @@
 ---
 layout: page
 ---
-<style>
-  p::selection {
-    font-weight: bold;
-    color: black; /* Optional */
-    background-color: yellow; /* Optional */
-  }
-</style>
-
-<p>Select some text in this paragraph to see it turn bold.</p>
 
 
 # About Me
