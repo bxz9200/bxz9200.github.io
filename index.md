@@ -40,6 +40,7 @@ layout: page
 ---
 
 ## 📮News and Updates
+<p align="justify">
 - [10/2024] I joined the National University of Singapore as a Research Fellow, working on synthetic tabular data and the security of generative models.
 - [05/2024] I'm Dr. Zhao now.
 - [02/2024] I passed my PhD defense.
@@ -49,7 +50,7 @@ layout: page
 - [05/2022] I will join <font color=Green>NVIDIA</font> as a Deep Learning Software and Research Intern.
 - [12/2021] Our paper [<font color=Blue>CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets</font>](https://ojs.aaai.org/index.php/AAAI/article/view/20902) is accepted by Thirty-Sixth AAAI Conference on Artificial Intelligence (**AAAI-22**). [[<font color=Red>Code</font>]](https://github.com/bxz9200/CLPA)
 - [10/2021] Our paper [<font color=Blue>Towards Class-oriented Poisoning Attacks against Neural Networks</font>](https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf) is accepted by Winter Conference on Applications of Computer Vision (**WACV**) 2022.
-
+</p>
 
 
 <br>
