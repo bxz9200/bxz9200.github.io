@@ -8,7 +8,7 @@ My name is **Bingyin Zhao**. I am a **<font color=LigthSykBlue>Research Fellow</
 
 I worked as a **<font color=LigthSykBlue>Deep Learning Software and Research Intern</font>** at **<font color=Green>NVIDIA</font>** under the supervision of [Dr. Jose M. Alvarez](https://alvarezlopezjosem.github.io/) and [Dr. Zhiding Yu](https://chrisding.github.io/). I received a full-time offer as a **<font color=LigthSykBlue>Senior System Software Engineer</font>** from **<font color=Green>NVIDIA</font>** after the internship but could not return to the U.S. due to an unexpected visa issue. I then relocated to Singapore. Thank you Singapore for having me and I love this place!
 
-My research interests include Generative AI, Trustworthy AI and Computer Vision. I have authored and co-authored several research papers, which have been accepted and published in prestigious conferences and journals, including ICCV'23, AAAI'22, IEEE TCAD, DAC'23, WACV'22, etc. I also serve as a reviewer for multiple computer vision, artificial intelligence and machine learning conferences, such as NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, etc.
+My research interests include Generative AI, Trustworthy AI and Computer Vision. I have authored and co-authored several research papers, which have been accepted and published in prestigious conferences and journals, including **<font color=Gold>ICCV'23</font>**, **<font color=Gold>AAAI'22</font>**, **<font color=Gold>IEEE TCAD</font>**, **<font color=Gold>DAC'23</font>**, **<font color=Gold>WACV'22</font>**, etc. I also serve as a reviewer for multiple computer vision, artificial intelligence and machine learning conferences, such as NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, etc.
 <br>
 
 ## 🧑‍🎓Education Background
