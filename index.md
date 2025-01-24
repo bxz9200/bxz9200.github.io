@@ -7,7 +7,7 @@ layout: page
 
 
 
-<div style="text-align: justify">I worked as a **<font color=LigthSykBlue>Deep Learning Software and Research Intern</font>** at <font color="DarkGreen">NVIDIA</font>font> under the supervision of [Dr. Jose M. Alvarez](https://alvarezlopezjosem.github.io/) and [Dr. Zhiding Yu](https://chrisding.github.io/). I received a full-time offer as a **<font color=LigthSykBlue>Senior System Software Engineer</font>** from **<font color=Green>NVIDIA</font>** after the internship but could not return to the U.S. due to an unexpected visa issue. I then relocated to Singapore. Thank you Singapore for having me and I love this place!<br>
+<div style="text-align: justify">I worked as a **<font color=LigthSykBlue>Deep Learning Software and Research Intern</font>** at <font color="DarkGreen">NVIDIA</font> under the supervision of [Dr. Jose M. Alvarez](https://alvarezlopezjosem.github.io/) and [Dr. Zhiding Yu](https://chrisding.github.io/). I received a full-time offer as a **<font color=LigthSykBlue>Senior System Software Engineer</font>** from **<font color=Green>NVIDIA</font>** after the internship but could not return to the U.S. due to an unexpected visa issue. I then relocated to Singapore. Thank you Singapore for having me and I love this place!<br>
 
 
 
