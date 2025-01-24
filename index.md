@@ -3,12 +3,13 @@ layout: page
 ---
 
 # About Me
+<p style="text-align:justify; text-justify:inter-ideograph;">
+My name is **Bingyin Zhao**. I am a **<font color=LigthSykBlue>Research Fellow</font>** at the **<font color=Darkorange>National University of Singapore</font>**, working with [Dr. Biplab Sikdar](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/). I earned my Ph.D. in Computer Engineering from **<font color=Darkorange>Clemson University</font>** in the United States under the supervision of [Dr. Yingjie Lao](https://laogroup.ece.tufts.edu/).
 
-<p>My name is **Bingyin Zhao**. I am a **<font color=LigthSykBlue>Research Fellow</font>** at the **<font color=Darkorange>National University of Singapore</font>**, working with [Dr. Biplab Sikdar](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/). I earned my Ph.D. in Computer Engineering from **<font color=Darkorange>Clemson University</font>** in the United States under the supervision of [Dr. Yingjie Lao](https://laogroup.ece.tufts.edu/).<p>
+I worked as a **<font color=LigthSykBlue>Deep Learning Software and Research Intern</font>** at **<font color=Green>NVIDIA</font>** under the supervision of [Dr. Jose M. Alvarez](https://alvarezlopezjosem.github.io/) and [Dr. Zhiding Yu](https://chrisding.github.io/). I received a full-time offer as a **<font color=LigthSykBlue>Senior System Software Engineer</font>** from **<font color=Green>NVIDIA</font>** after the internship but could not return to the U.S. due to an unexpected visa issue. I then relocated to Singapore. Thank you Singapore for having me and I love this place!<p>
 
-<p>I worked as a **<font color=LigthSykBlue>Deep Learning Software and Research Intern</font>** at **<font color=Green>NVIDIA</font>** under the supervision of [Dr. Jose M. Alvarez](https://alvarezlopezjosem.github.io/) and [Dr. Zhiding Yu](https://chrisding.github.io/). I received a full-time offer as a **<font color=LigthSykBlue>Senior System Software Engineer</font>** from **<font color=Green>NVIDIA</font>** after the internship but could not return to the U.S. due to an unexpected visa issue. I then relocated to Singapore. Thank you Singapore for having me and I love this place!<p>
-
-<p>My research interests include Generative AI, Trustworthy AI and Computer Vision. I have authored and co-authored several research papers, which have been accepted and published in prestigious conferences and journals, including **<font color=OrangeRed>ICCV'23</font>**, **<font color=OrangeRed>AAAI'22</font>**, **<font color=OrangeRed>IEEE TCAD</font>**, **<font color=OrangeRed>DAC'23</font>**, **<font color=OrangeRed>WACV'22</font>**, etc. I also serve as a reviewer for multiple computer vision, artificial intelligence and machine learning conferences, such as NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, etc.<p>
+My research interests include Generative AI, Trustworthy AI and Computer Vision. I have authored and co-authored several research papers, which have been accepted and published in prestigious conferences and journals, including **<font color=OrangeRed>ICCV'23</font>**, **<font color=OrangeRed>AAAI'22</font>**, **<font color=OrangeRed>IEEE TCAD</font>**, **<font color=OrangeRed>DAC'23</font>**, **<font color=OrangeRed>WACV'22</font>**, etc. I also serve as a reviewer for multiple computer vision, artificial intelligence and machine learning conferences, such as NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, etc.
+</p>
 <br>
 
 ## 🧑‍🎓Education Background
