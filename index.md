@@ -49,7 +49,7 @@ layout: page
 - [02/2023] Our paper <a href="[url]>](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247885)"><font color=Blue>NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation</font><a> is accepted by 60th Design Automation Conference (DAC).<br>
 - [05/2022] I will join <font color=Green>NVIDIA</font> as a Deep Learning Software and Research Intern.<br>
 - [12/2021] Our paper <a href="[url](https://ojs.aaai.org/index.php/AAAI/article/view/20902)"><font color=Blue>CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets</font><a> is accepted by Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22). <a href="[url](https://github.com/bxz9200/CLPA)">[<font color=Red>Code</font>]<a><br>
-- [10/2021] Our paper <a href="[url](https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf)"><font color=Blue>Towards Class-oriented Poisoning Attacks against Neural Networks</font><a> is accepted by Winter Conference on Applications of Computer Vision (WACV) 2022.</p>
+- [10/2021] Our paper <a href="[url](https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf)"><font color=Blue>Towards Class-oriented Poisoning Attacks against Neural Networks</font><a> is accepted by Winter Conference on Applications of Computer Vision (WACV) 2022.
 
 
 <br>
