@@ -14,16 +14,16 @@ My research interests include Generative AI, Trustworthy AI and Computer Vision.
 ## 🧑‍🎓Education Background
 
 - **Ph.D.**
-  - [Clemson University](https://www.clemson.edu/)
+  - [Clemson University](https://www.clemson.edu/), USA
   - Major: Computer Engineering            
   - Advisor: Dr. Yingjie Lao
 
 - **M.S.**                                                                              
-  - [Rochester Institute of Technology](https://www.rit.edu/)
+  - [Rochester Institute of Technology](https://www.rit.edu/), USA
   - Major: Electrical Engineering 
 
 - **B.S.**
-  - [East China University of Science and Technology](https://www.ecust.edu.cn/en/main.psp)
+  - [East China University of Science and Technology](https://www.ecust.edu.cn/en/main.psp), China
   - Major: Electrical Engineering                                                                          
 
 
