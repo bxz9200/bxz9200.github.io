@@ -3,11 +3,11 @@ layout: page
 ---
 
 # About Me
-<div style="text-align: justify">My name is **Bingyin Zhao**. I am a **<font color=LigthSykBlue>Research Fellow</font>** at the **<font color=Darkorange>National University of Singapore</font>**, working with <a href="[url]([https://laogroup.ece.tufts.edu/](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/))">Dr. Biplab Sikdar</a>. I earned my Ph.D. in Computer Engineering from **<font color=Darkorange>Clemson University</font>** in the United States under the supervision of <a href="[url](https://laogroup.ece.tufts.edu/)">Dr. Yingjie Lao</a>.<br>
+<div style="text-align: justify">My name is **Bingyin Zhao**. I am a **<font color=LigthSykBlue>Research Fellow</font>** at the **<font color=Darkorange>National University of Singapore</font>**, working with <a href="[url](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/)">Dr. Biplab Sikdar</a>. I earned my Ph.D. in Computer Engineering from **<font color=Darkorange>Clemson University</font>** in the United States under the supervision of <a href="[url](https://laogroup.ece.tufts.edu/)">Dr. Yingjie Lao</a>.<br>
 
 
 
-<div style="text-align: justify">I worked as a **<font color=LigthSykBlue>Deep Learning Software and Research Intern</font>** at <font color="DarkGreen">NVIDIA</font> under the supervision of [Dr. Jose M. Alvarez](https://alvarezlopezjosem.github.io/) and [Dr. Zhiding Yu](https://chrisding.github.io/). I received a full-time offer as a **<font color=LigthSykBlue>Senior System Software Engineer</font>** from **<font color=Green>NVIDIA</font>** after the internship but could not return to the U.S. due to an unexpected visa issue. I then relocated to Singapore. Thank you Singapore for having me and I love this place!<br>
+<div style="text-align: justify">I worked as a **<font color=LigthSykBlue>Deep Learning Software and Research Intern</font>** at <font color="DarkGreen">NVIDIA</font> under the supervision of <a href="[url](https://alvarezlopezjosem.github.io/)">Dr. Dr. Jose M. Alvarez</a> and  <a href="[url](https://chrisding.github.io/)">Dr. Zhiding Yu</a>. I received a full-time offer as a **<font color=LigthSykBlue>Senior System Software Engineer</font>** from **<font color=Green>NVIDIA</font>** after the internship but could not return to the U.S. due to an unexpected visa issue. I then relocated to Singapore. Thank you Singapore for having me and I love this place!<br>
 
 
 
