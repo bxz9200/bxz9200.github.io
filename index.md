@@ -48,8 +48,8 @@ layout: page
 - [03/2023] Our paper <font color=Blue><a href="[url](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10077732)">Data-Driven Feature Selection Framework for Approximate Circuit Design<a></font> is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).<br>
 - [02/2023] Our paper <font color=Blue><a href="[url]>](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247885)">NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation<a></font> is accepted by 60th Design Automation Conference (DAC).<br>
 - [05/2022] I will join <font color=Green>NVIDIA</font> as a Deep Learning Software and Research Intern.<br>
-- [12/2021] Our paper <font color=Blue><a href"[url](https://ojs.aaai.org/index.php/AAAI/article/view/20902)">CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets<a></font> is accepted by Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22). <font color=Red><a href="[url](https://github.com/bxz9200/CLPA)">Code<a></font><br>
-- [10/2021] Our paper <font color=Blue><a href="[url](https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf)">Towards Class-oriented Poisoning Attacks against Neural Networks<a></font> is accepted by Winter Conference on Applications of Computer Vision (WACV) 2022.
+- [12/2021] Our paper <a href="[url](https://ojs.aaai.org/index.php/AAAI/article/view/20902)"><font color=Blue>CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets</font><a> is accepted by Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22). <font color=Red><a href="[url](https://github.com/bxz9200/CLPA)">Code<a></font><br>
+- [10/2021] Our paper <font color=Blue><a href="[url](https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf)">Towards Class-oriented Poisoning Attacks against Neural Networks<a></font> is accepted by Winter Conference on Applications of Computer Vision (WACV) 2022.<br>
 </p>
 
 
