@@ -3,7 +3,7 @@ layout: page
 ---
 
 # About Me
-<div style="text-align: right">
+<div style="text-align: justify">
 My name is **Bingyin Zhao**. I am a **<font color=LigthSykBlue>Research Fellow</font>** at the **<font color=Darkorange>National University of Singapore</font>**, working with [Dr. Biplab Sikdar](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/). I earned my Ph.D. in Computer Engineering from **<font color=Darkorange>Clemson University</font>** in the United States under the supervision of [Dr. Yingjie Lao](https://laogroup.ece.tufts.edu/).
 </div>
 
