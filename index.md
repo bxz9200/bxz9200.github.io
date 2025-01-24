@@ -9,7 +9,7 @@ My name is **Bingyin Zhao**. I am a <font color=LigthSykBlue>Research Fellow</fo
 <p align="justify">
 
 <p align="justify">
-I worked as a <font color=LigthSykBlue>Deep Learning Software and Research Intern</font> at <font color="DarkGreen">NVIDIA</font> under the supervision of <a href="[url](https://alvarezlopezjosem.github.io/)">Dr. Dr. Jose M. Alvarez</a> and  <a href="[url](https://chrisding.github.io/)">Dr. Zhiding Yu</a>. I received a full-time offer as a <font color=LigthSykBlue>Senior System Software Engineer</font> from <font color="DarkGreen">NVIDIA</font> after the internship but could not return to the U.S. due to an unexpected visa issue. I then relocated to Singapore. Thank you Singapore for having me and I love this place!
+I worked as a <font color=LigthSykBlue>Deep Learning Software and Research Intern</font> at <font color="DarkGreen">NVIDIA</font> under the supervision of <a href="[url](https://alvarezlopezjosem.github.io/)">Dr. Dr. Jose M. Alvarez</a> and  <a href="[url](https://chrisding.github.io/)">Dr. Zhiding Yu</a>. I received a full-time offer as a <font color=LigthSykBlue>Senior System Software Engineer</font> from <font color="DarkGreen">NVIDIA</font> after the internship but could not return to the U.S. due to an unexpected visa issue. I then relocated to Singapore. Thank you Singapore for having me and I love this great place!
 <p align="justify">
 
 
