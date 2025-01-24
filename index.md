@@ -5,7 +5,7 @@ layout: page
 
 # About Me
 <p align="justify">
-My name is **Bingyin Zhao**. I am a <font color=LigthSykBlue>Research Fellow</font> at the <font color=Darkorange>National University of Singapore</font>, working with <a href="[url](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/)">Dr. Biplab Sikdar</a>. I earned my Ph.D. in Computer Engineering from <font color=Darkorange>Clemson University</font> in the United States under the supervision of <a href="[url](https://laogroup.ece.tufts.edu/)">Dr. Yingjie Lao</a>
+My name is **Bingyin Zhao**. I am a <font color=LigthSykBlue>Research Fellow</font> at the <font color=Darkorange>National University of Singapore</font>, working with <a href="[url](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/)">Dr. Biplab Sikdar</a>. I earned my Ph.D. in Computer Engineering from <font color=Darkorange>Clemson University</font> in the United States under the supervision of <a href="[url](https://laogroup.ece.tufts.edu/)">Dr. Yingjie Lao</a>.
 <p align="justify">
 
 <p align="justify">
@@ -16,7 +16,6 @@ I worked as a <font color=LigthSykBlue>Deep Learning Software and Research Inter
 <p align="justify">
 My research interests include Generative AI, Trustworthy AI and Computer Vision. I have authored and co-authored several research papers, which have been accepted and published in prestigious conferences and journals, including <font color=OrangeRed>ICCV'23</font>, <font color=OrangeRed>AAAI'22</font>, <font color=OrangeRed>IEEE TCAD</font>, <font color=OrangeRed>DAC'23</font>, <font color=OrangeRed>WACV'22</font>, etc. I also serve as a reviewer for multiple computer vision, artificial intelligence and machine learning conferences, such as NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, etc.
 </p>
-
 
 <br>
 
