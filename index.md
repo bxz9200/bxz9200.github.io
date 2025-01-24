@@ -5,7 +5,7 @@ layout: page
 # About Me
 <div style="text-align: justify;">
   
-<p>My name is Bingyin Zhao (赵秉崟). I am a <font color=LigthSykBlue>Research Fellow</font> at the <font color=Darkorange>National University of Singapore</font>, working with <a href="[url](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/)">Dr. Biplab Sikdar</a>. I earned my Ph.D. in Computer Engineering from <font color=Darkorange>Clemson University</font> in the United States under the supervision of <a href="[url](https://laogroup.ece.tufts.edu/)">Dr. Yingjie Lao</a>.</p>
+<p>My name is Bingyin Zhao (赵秉崟). I am a <font color=LigthSykBlue>Research Fellow</font> at the <font color=Black>National University of Singapore</font>, working with <a href="[url](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/)">Dr. Biplab Sikdar</a>. I earned my Ph.D. in Computer Engineering from <font color=Black>Clemson University</font> in the United States under the supervision of <a href="[url](https://laogroup.ece.tufts.edu/)">Dr. Yingjie Lao</a>.</p>
 </div>
 
 <div style="text-align: justify;">
