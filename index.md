@@ -18,11 +18,11 @@ My research interests include Generative AI, Trustworthy AI and Computer Vision.
   - Major: Computer Engineering            
   - Advisor: Dr. Yingjie Lao
 
-- **Master of Science**                                                                              
+- **M.S.**                                                                              
   - [Rochester Institute of Technology](https://www.rit.edu/)
   - Major: Electrical Engineering 
 
-- **Bachelor of Science**
+- **B.S.**
   - [East China University of Science and Technology](https://www.ecust.edu.cn/en/main.psp)
   - Major: Electrical Engineering                                                                          
 
