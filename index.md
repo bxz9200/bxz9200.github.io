@@ -1,6 +1,16 @@
 ---
 layout: page
 ---
+<style>
+  p::selection {
+    font-weight: bold;
+    color: black; /* Optional */
+    background-color: yellow; /* Optional */
+  }
+</style>
+
+<p>Select some text in this paragraph to see it turn bold.</p>
+
 
 # About Me
 <div style="text-align: justify">My name is Bingyin Zhao. I am a <font color=LigthSykBlue>Research Fellow</font> at the <font color=Darkorange>National University of Singapore</font>, working with <a href="[url](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/)">Dr. Biplab Sikdar</a>. I earned my Ph.D. in Computer Engineering from <font color=Darkorange>Clemson University</font> in the United States under the supervision of <a href="[url](https://laogroup.ece.tufts.edu/)">Dr. Yingjie Lao</a>.</div><br>
