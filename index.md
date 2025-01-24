@@ -42,13 +42,13 @@ layout: page
 ## 📮News and Updates
 <p align="justify">
 - [10/2024] I joined the National University of Singapore as a Research Fellow, working on synthetic tabular data and the security of generative models.<br>
-- [05/2024] I'm Dr. Zhao now.
-- [02/2024] I passed my PhD defense.
-- [07/2023] Our paper [<font color=Blue>Fully Attentional Networks with Self-emerging Token Labeling</font>](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Fully_Attentional_Networks_with_Self-emerging_Token_Labeling_ICCV_2023_paper.pdf) is accepted by International Conference on Computer Vision (**ICCV**) 2023. The code and models can be found at [<font color=Green>NVlabs</font>](https://github.com/NVlabs/STL).
-- [03/2023] Our paper [<font color=Blue>Data-Driven Feature Selection Framework for Approximate Circuit Design</font>](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10077732) is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**).
-- [02/2023] Our paper [<font color=Blue>NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation</font>](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247885) is accepted by 60th Design Automation Conference (**DAC**).
-- [05/2022] I will join <font color=Green>NVIDIA</font> as a Deep Learning Software and Research Intern.
-- [12/2021] Our paper [<font color=Blue>CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets</font>](https://ojs.aaai.org/index.php/AAAI/article/view/20902) is accepted by Thirty-Sixth AAAI Conference on Artificial Intelligence (**AAAI-22**). [[<font color=Red>Code</font>]](https://github.com/bxz9200/CLPA)
+- [05/2024] I'm Dr. Zhao now.<br>
+- [02/2024] I passed my PhD defense.<br>
+- [07/2023] Our paper [<font color=Blue>Fully Attentional Networks with Self-emerging Token Labeling</font>](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Fully_Attentional_Networks_with_Self-emerging_Token_Labeling_ICCV_2023_paper.pdf) is accepted by International Conference on Computer Vision (**ICCV**) 2023. The code and models can be found at [<font color=Green>NVlabs</font>](https://github.com/NVlabs/STL).<br>
+- [03/2023] Our paper [<font color=Blue>Data-Driven Feature Selection Framework for Approximate Circuit Design</font>](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10077732) is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**).<br>
+- [02/2023] Our paper [<font color=Blue>NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation</font>](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247885) is accepted by 60th Design Automation Conference (**DAC**).<br>
+- [05/2022] I will join <font color=Green>NVIDIA</font> as a Deep Learning Software and Research Intern.<br>
+- [12/2021] Our paper [<font color=Blue>CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets</font>](https://ojs.aaai.org/index.php/AAAI/article/view/20902) is accepted by Thirty-Sixth AAAI Conference on Artificial Intelligence (**AAAI-22**). [[<font color=Red>Code</font>]](https://github.com/bxz9200/CLPA)<br>
 - [10/2021] Our paper [<font color=Blue>Towards Class-oriented Poisoning Attacks against Neural Networks</font>](https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf) is accepted by Winter Conference on Applications of Computer Vision (**WACV**) 2022.
 </p>
 
