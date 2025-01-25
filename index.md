@@ -44,7 +44,7 @@ layout: page
   [10/2024] I joined the National University of Singapore as a Research Fellow, working on synthetic tabular data and the security of generative models.<br>
   [05/2024] I'm Dr. Zhao now.<br>
   [02/2024] I passed my PhD defense.<br>
-  [01/2024] I received the full-time offer as a <font color=LigthSykBlue>Senior Systems Software Engineer - Gen AI</font> from <font color=Green>NVIDIA</font> but could not join due to an unexpected visa issue.
+  [01/2024] I received the full-time offer as a <font color=LigthSykBlue>Senior Systems Software Engineer - Gen AI</font> from <font color=Green>NVIDIA</font> but could not join due to an unexpected visa issue.<br>
   [07/2023] Our paper <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Fully_Attentional_Networks_with_Self-emerging_Token_Labeling_ICCV_2023_paper.pdf"><font color=Blue>Fully Attentional Networks with Self-emerging Token Labeling</font></a> is accepted by International Conference on Computer Vision (<font color=Red>ICCV</font>) 2023. The code and models can be found at <a href="(https://github.com/NVlabs/STL)"><font color=Green>NVlabs</font><a>.<br>
   [03/2023] Our paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10077732"><font color=Blue>Data-Driven Feature Selection Framework for Approximate Circuit Design</font><a> is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (<font color=Red>TCAD</font>).<br>
   [02/2023] Our paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247885"><font color=Blue>NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation</font><a> is accepted by 60th Design Automation Conference (<font color=Red>DAC</font>).<br>
