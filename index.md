@@ -14,7 +14,7 @@ layout: page
 
 
 <div style="text-align: justify;">
-<p>My research interests include Generative AI, Trustworthy AI and Computer Vision. I have authored and co-authored several research papers in <font color=OrangeRed>ICCV</font>, <font color=OrangeRed>AAAI</font>, <font color=OrangeRed>TCAD</font>, <font color=OrangeRed>DAC</font>, <font color=OrangeRed>WACV</font>, etc. I also serve as a reviewer for multiple computer vision, artificial intelligence and machine learning conferences, including NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, etc.</p>
+<p>My research interests include Generative AI, Trustworthy AI and Computer Vision. I have authored and co-authored several research papers in <font color=Red>ICCV</font>, <font color=Red>AAAI</font>, <font color=Red>TCAD</font>, <font color=Red>DAC</font>, <font color=Red>WACV</font>, etc. I also serve as a reviewer for multiple computer vision, artificial intelligence and machine learning conferences, including NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, etc.</p>
 </div>
 
 <div style="text-align: justify;">
