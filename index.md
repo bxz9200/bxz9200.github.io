@@ -14,7 +14,7 @@ layout: page
 
 
 <div style="text-align: justify;">
-<p>My research interests include Generative AI, Trustworthy AI and Computer Vision. I have authored and co-authored several research papers in <font color=Red>ICCV</font>, <font color=Red>AAAI</font>, <font color=Red>TCAD</font>, <font color=Red>DAC</font>, <font color=Red>WACV</font>, etc. I also serve as a reviewer for multiple computer vision, artificial intelligence and machine learning conferences, including NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, etc.</p>
+<p>My research interests include Generative AI, Trustworthy AI and Computer Vision. I have authored and co-authored several research papers in <font color=OrangeRed>ICCV</font>, <font color=OrangeRed>AAAI</font>, <font color=OrangeRed>TCAD</font>, <font color=OrangeRed>DAC</font>, <font color=OrangeRed>WACV</font>, etc. I also serve as a reviewer for multiple computer vision, artificial intelligence and machine learning conferences, including NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, etc.</p>
 </div>
 
 <div style="text-align: justify;">
@@ -49,12 +49,12 @@ layout: page
   [05/2024] I'm Dr. Zhao now.<br>
   [02/2024] I passed my PhD defense.<br>
   [01/2024] I received the full-time offer as a <font color=LigthSykBlue>Senior Systems Software Engineer (Gen AI)</font> from <font color=Green>NVIDIA</font> but could not join due to an unexpected visa issue.<br>
-  [07/2023] Our paper <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Fully_Attentional_Networks_with_Self-emerging_Token_Labeling_ICCV_2023_paper.pdf"><font color=BlueViolet>Fully Attentional Networks with Self-emerging Token Labeling</font></a> is accepted by International Conference on Computer Vision (<font color=OragneRed>ICCV</font>) 2023. The code and models can be found at <a href="(https://github.com/NVlabs/STL)"><font color=Green>NVlabs</font><a>.<br>
-  [03/2023] Our paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10077732"><font color=BlueViolet>Data-Driven Feature Selection Framework for Approximate Circuit Design</font><a> is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (<font color=OragneRed>TCAD</font>).<br>
-  [02/2023] Our paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247885"><font color=BlueViolet>NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation</font><a> is accepted by 60th Design Automation Conference (<font color=OragneRed>DAC</font>).<br>
+  [07/2023] Our paper <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Fully_Attentional_Networks_with_Self-emerging_Token_Labeling_ICCV_2023_paper.pdf"><font color=BlueViolet>Fully Attentional Networks with Self-emerging Token Labeling</font></a> is accepted by International Conference on Computer Vision (<font color=OrangeRed>ICCV</font>) 2023. The code and models can be found at <a href="(https://github.com/NVlabs/STL)"><font color=Green>NVlabs</font><a>.<br>
+  [03/2023] Our paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10077732"><font color=BlueViolet>Data-Driven Feature Selection Framework for Approximate Circuit Design</font><a> is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (<font color=OrangeRed>TCAD</font>).<br>
+  [02/2023] Our paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247885"><font color=BlueViolet>NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation</font><a> is accepted by 60th Design Automation Conference (<font color=OrangeRed>DAC</font>).<br>
   [05/2022] I will join <font color=Green>NVIDIA</font> as a Deep Learning Software and Research Intern.<br>
-  [12/2021] Our paper <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20902"><font color=BlueViolet>CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets</font><a> is accepted by Thirty-Sixth AAAI Conference on Artificial Intelligence (<font color=OragneRed>AAAI-22</font>). <a href="(https://github.com/bxz9200/CLPA)">[<font color=BlueVioletViolet>Code</font>]<a><br>
-  [10/2021] Our paper <a href="https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf"><font color=BlueViolet>Towards Class-oriented Poisoning Attacks against Neural Networks</font><a> is accepted by Winter Conference on Applications of Computer Vision (<font color=OragneRed>WACV</font>) 2022.
+  [12/2021] Our paper <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20902"><font color=BlueViolet>CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets</font><a> is accepted by Thirty-Sixth AAAI Conference on Artificial Intelligence (<font color=OrangeRed>AAAI-22</font>). <a href="(https://github.com/bxz9200/CLPA)">[<font color=BlueVioletViolet>Code</font>]<a><br>
+  [10/2021] Our paper <a href="https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf"><font color=BlueViolet>Towards Class-oriented Poisoning Attacks against Neural Networks</font><a> is accepted by Winter Conference on Applications of Computer Vision (<font color=OrangeRed>WACV</font>) 2022.
 
 
 <br>
