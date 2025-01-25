@@ -9,10 +9,14 @@ title: Projects
 
 ![image](https://github.com/bxz9200/bxz9200.github.io/assets/36553004/5e5c5196-bed8-433e-ac5d-8ba44af5812b)
 
-This is the project I worked on when I interned at NVIDIA. We proposed a novel training paradigm by using the self-emerging knowledge from Transformer-based models to improve the pre-training of ViTs. With only 77M parameters, our best model ranks top worldwide in the [leaderboard of various datasets](https://paperswithcode.com/paper/fully-attentional-networks-with-self-emerging#:~:text=Recent%20studies%20indicate%20that%20Vision,of%2Dthe%2Dart%20robustness.). 
+<div style="text-align: justify;">
+  
+<p>This is the project I worked on when I interned at NVIDIA. We proposed a novel training paradigm by using the self-emerging knowledge from Transformer-based models to improve the pre-training of ViTs. With only 77M parameters, our best model ranks top worldwide in the <a href="https://paperswithcode.com/paper/fully-attentional-networks-with-self-emerging#:~:text=Recent%20studies%20indicate%20that%20Vision,of%2Dthe%2Dart%20robustness.">leaderboard of various datasets<a>.</p> 
+</div>
 
-I'm grateful to work with the amazing NV team, especially my manager [Jose M. Alvarez](https://alvarezlopezjosem.github.io/), my mentor [Zhiding Yu](https://chrisding.github.io/) and [Shiyi Lan](https://voidrank.github.io/).
-
+<div style="text-align: justify;">
+<p>I'm grateful to work with the amazing NV team, especially my manager <a href="(https://alvarezlopezjosem.github.io/">Jose M. Alvarez<a>, my mentor <a href="https://chrisding.github.io/">Zhiding Yu<a> and <a href="https://voidrank.github.io/">Shiyi Lan<a>.</p>
+</div>
 <br>
 
 ---
@@ -21,7 +25,9 @@ I'm grateful to work with the amazing NV team, especially my manager [Jose M. Al
 
 <img width="836" alt="image" src="https://github.com/bxz9200/bxz9200.github.io/assets/36553004/e8adf045-04cd-413e-a1b0-f2525975d6c4">
 
-In this project, we proposed a clean-label attack that compromises the model availability. We used a GAN model with a triplet loss to generate stealthy and effective poisoned data.
+<div style="text-align: justify;">
+<p>In this project, we proposed a clean-label attack that compromises the model availability. We used a GAN model with a triplet loss to generate stealthy and effective poisoned data.</p>
+</div>
 
 <br>
 
@@ -31,5 +37,7 @@ In this project, we proposed a clean-label attack that compromises the model ava
 
 [![Class-oriented Poisoning Attacks](https://img.youtube.com/vi/BFeutstPusk/0.jpg)](https://youtu.be/BFeutstPusk)
 
-In this project we further advanced the adversarial goal of poisoning availability to a per-class basis. We control the model prediction for each class using COEG and COES attacks. 
+<div style="text-align: justify;">
+<p>In this project we further advanced the adversarial goal of poisoning availability to a per-class basis. We control the model prediction for each class using COEG and COES attacks.</p>
+</div>
 
