@@ -18,7 +18,7 @@ title: Projects
 <p>I'm grateful to work with the amazing NV team, especially my manager <a href="(https://alvarezlopezjosem.github.io/">Jose M. Alvarez<a>, my mentor <a href="https://chrisding.github.io/">Zhiding Yu</a> and <a href="https://voidrank.github.io/">Shiyi Lan</a>.</p>
 </div>
 
-<be>
+<br>
 
 ---
 
@@ -31,7 +31,7 @@ title: Projects
 <p>In this project, we proposed a clean-label attack that compromises the model availability. We used a GAN model with a triplet loss to generate stealthy and effective poisoned data.</p>
 </div>
 
-<be>
+<br>
 
 ---
 
