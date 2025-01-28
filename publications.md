@@ -10,10 +10,11 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=wAOPAEoA
 
 
 ## Conference Publications
-- **[ICCV'23]** **Bingyin Zhao**, Zhiding Yu, Shiyi Lan, Yutao Cheng, Anima Anandkumar, Yingjie Lao, Jose M Alvarez, ["Fully Attentional Networks with Self-emerging Token Labeling".](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Fully_Attentional_Networks_with_Self-emerging_Token_Labeling_ICCV_2023_paper.pdf) In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), pp. 5585-5595, 2023.
-- **[DAC'23]** Antian Wang, **Bingyin Zhao**, Weihang Tan, and Yingjie Lao, ["NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation".](https://ieeexplore.ieee.org/abstract/document/10247885)  In 2023 60th ACM/IEEE Design Automation Conference (DAC), pp. 1-6, 2023.
-- **[AAAI'22]** **Bingyin Zhao**, Yingjie Lao, ["CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets".](https://ojs.aaai.org/index.php/AAAI/article/view/20902)  In Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22), pp. 9162-9170, 2022.
-- **[WACV'22]** **Bingyin Zhao**, Yingjie Lao, ["Towards Class-oriented Poisoning Attacks against Neural Networks".](https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf)  In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pp. 3741-3750, 2022.
+<p align="justify">
+[<font color=Red>ICCV'23</font>] <font color=LigthSykBlue>Bingyin Zhao</font>, Zhiding Yu, Shiyi Lan, Yutao Cheng, Anima Anandkumar, Yingjie Lao, Jose M Alvarez, <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Fully_Attentional_Networks_with_Self-emerging_Token_Labeling_ICCV_2023_paper.pdf">Fully Attentional Networks with Self-emerging Token Labeling.</a> In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), pp. 5585-5595, 2023.<br>
+[<font color=Red>DAC'23</font>] Antian Wang, <font color=LigthSykBlue>Bingyin Zhao</font>, Weihang Tan, and Yingjie Lao, <a href="https://ieeexplore.ieee.org/abstract/document/10247885">NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation.</a> In 2023 60th ACM/IEEE Design Automation Conference (DAC), pp. 1-6, 2023.<br>
+[<font color=Red>AAAI'22</font>] <font color=LigthSykBlue>Bingyin Zhao</font>, Yingjie Lao, <a herf="https://ojs.aaai.org/index.php/AAAI/article/view/20902">CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets.</a> In Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22), pp. 9162-9170, 2022.<br>
+[<font color=Red>WACV'22</font>] <font color=LigthSykBlue>Bingyin Zhao</font>, Yingjie Lao, <a href="https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf">Towards Class-oriented Poisoning Attacks against Neural Networks.</a> In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pp. 3741-3750, 2022.
 
 <br>
 
