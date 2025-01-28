@@ -7,7 +7,7 @@ title: Projects
 # Research Projects
 ## Fully Attentional Networks with Self-emerging Token Labeling [[<font color=Blue>Paper</font>]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Fully_Attentional_Networks_with_Self-emerging_Token_Labeling_ICCV_2023_paper.pdf)
 
-![image](https://github.com/bxz9200/bxz9200.github.io/assets/36553004/5e5c5196-bed8-433e-ac5d-8ba44af5812b)
+![image](https://github.com/bxz9200/bxz9200.github.io/assets/36553004/5e5c5196-bed8-433e-ac5d-8ba44af5812b)<br>
 
 <div style="text-align: justify;">
   
@@ -23,7 +23,7 @@ title: Projects
 
 ## Clean-label Poisoning Availability Attacks [[<font color=Blue>Paper</font>]](https://ojs.aaai.org/index.php/AAAI/article/view/20902)
 
-<img width="836" alt="image" src="https://github.com/bxz9200/bxz9200.github.io/assets/36553004/e8adf045-04cd-413e-a1b0-f2525975d6c4">
+<img width="836" alt="image" src="https://github.com/bxz9200/bxz9200.github.io/assets/36553004/e8adf045-04cd-413e-a1b0-f2525975d6c4"><br>
 
 <div style="text-align: justify;">
   
@@ -35,7 +35,7 @@ title: Projects
 
 ## Class-oriented Poisoning Attacks [[<font color=Blue>Paper</font>]](https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf)
 
-[![Class-oriented Poisoning Attacks](https://img.youtube.com/vi/BFeutstPusk/0.jpg)](https://youtu.be/BFeutstPusk)
+[![Class-oriented Poisoning Attacks](https://img.youtube.com/vi/BFeutstPusk/0.jpg)](https://youtu.be/BFeutstPusk)<br>
 
 <div style="text-align: justify;">
   
