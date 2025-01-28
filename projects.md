@@ -19,7 +19,6 @@ title: Projects
 
 <br>
 
----
 
 ## Clean-label Poisoning Availability Attacks [[<font color=Blue>Paper</font>]](https://ojs.aaai.org/index.php/AAAI/article/view/20902)
 
@@ -31,7 +30,6 @@ title: Projects
 
 <br>
 
----
 
 ## Class-oriented Poisoning Attacks [[<font color=Blue>Paper</font>]](https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf)
 
