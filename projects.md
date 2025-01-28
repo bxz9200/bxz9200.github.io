@@ -10,7 +10,6 @@ title: Projects
 ![image](https://github.com/bxz9200/bxz9200.github.io/assets/36553004/5e5c5196-bed8-433e-ac5d-8ba44af5812b)
 
 <div style="text-align: justify;">
-  
 <p>This is the project I worked on when I interned at NVIDIA. We proposed a novel training paradigm by using the self-emerging knowledge from Transformer-based models to improve the pre-training of ViTs. With only 77M parameters, our best model ranks top worldwide in the <a href="https://paperswithcode.com/paper/fully-attentional-networks-with-self-emerging#:~:text=Recent%20studies%20indicate%20that%20Vision,of%2Dthe%2Dart%20robustness.">leaderboard of various datasets<a>.</p> 
 </div>
 
