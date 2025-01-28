@@ -11,15 +11,16 @@ title: Projects
 
 <div style="text-align: justify;">
   
-<p>This is the project I worked on when I interned at NVIDIA. We proposed a novel training paradigm by using the self-emerging knowledge from Transformer-based models to improve the pre-training of ViTs. With only 77M parameters, our best model ranks top worldwide in the <a href="https://paperswithcode.com/paper/fully-attentional-networks-with-self-emerging#:~:text=Recent%20studies%20indicate%20that%20Vision,of%2Dthe%2Dart%20robustness.">leaderboard of various datasets<a>.</p> 
+<p>This is the project I worked on when I interned at NVIDIA. We proposed a novel training paradigm by using the self-emerging knowledge from Transformer-based models to improve the pre-training of ViTs. With only 77M parameters, our best model ranks top worldwide in the <a href="https://paperswithcode.com/paper/fully-attentional-networks-with-self-emerging#:~:text=Recent%20studies%20indicate%20that%20Vision,of%2Dthe%2Dart%20robustness.">leaderboard of various datasets</a>.</p>
 </div>
 
 <div style="text-align: justify;">
-<p>I'm grateful to work with the amazing NV team, especially my manager <a href="(https://alvarezlopezjosem.github.io/">Jose M. Alvarez<a>, my mentor <a href="https://chrisding.github.io/">Zhiding Yu<a> and <a href="https://voidrank.github.io/">Shiyi Lan<a>.</p>
+<p>I'm grateful to work with the amazing NV team, especially my manager <a href="(https://alvarezlopezjosem.github.io/">Jose M. Alvarez<a>, my mentor <a href="https://chrisding.github.io/">Zhiding Yu</a> and <a href="https://voidrank.github.io/">Shiyi Lan</a>.</p>
 </div>
 
-<br>
+<be>
 
+---
 
 ## Clean-label Poisoning Availability Attacks [[<font color=Blue>Paper</font>]](https://ojs.aaai.org/index.php/AAAI/article/view/20902)
 
@@ -30,8 +31,9 @@ title: Projects
 <p>In this project, we proposed a clean-label attack that compromises the model availability. We used a GAN model with a triplet loss to generate stealthy and effective poisoned data.</p>
 </div>
 
-<br>
+<be>
 
+---
 
 ## Class-oriented Poisoning Attacks [[<font color=Blue>Paper</font>]](https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf)
 
