@@ -21,7 +21,8 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=wAOPAEoA
 
 
 ## Journal Publications
-- **[TCAD'23]** **Bingyin Zhao**, Ling Qiu, and Yingjie Lao, ["Data-Driven Feature Selection Framework for Approximate Circuit Design".](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10077732)  In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
+<p align="justify">
+[<font color=Red>TCAD'23</font>] <font color=LigthSykBlue>Bingyin Zhao</font>, Ling Qiu, and Yingjie Lao, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10077732">Data-Driven Feature Selection Framework for Approximate Circuit Design.</a> In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
 
 
 <!---
