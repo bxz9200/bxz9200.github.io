@@ -16,6 +16,7 @@ title: Projects
 <div style="text-align: justify;">
 <p>I'm grateful to work with the amazing NV team, especially my manager <a href="(https://alvarezlopezjosem.github.io/">Jose M. Alvarez<a>, my mentor <a href="https://chrisding.github.io/">Zhiding Yu<a> and <a href="https://voidrank.github.io/">Shiyi Lan<a>.</p>
 </div>
+
 <br>
 
 ---
