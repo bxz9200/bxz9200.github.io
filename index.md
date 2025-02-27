@@ -14,7 +14,7 @@ layout: page
 
 
 <div style="text-align: justify;">
-<p>My research interests include Generative AI, Trustworthy AI and Computer Vision. I have authored and co-authored several research papers in <font color=Red>ICCV</font>, <font color=Red>AAAI</font>, <font color=Red>TCAD</font>, <font color=Red>DAC</font>, <font color=Red>WACV</font>, etc. I also serve as a reviewer for multiple computer vision, artificial intelligence and machine learning conferences, including NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, etc.</p>
+<p>My research interests include Generative AI, Trustworthy AI and Computer Vision. I have authored and co-authored several research papers in <font color=Red>CVPR</font>, <font color=Red>ICCV</font>, <font color=Red>AAAI</font>, <font color=Red>TCAD</font>, <font color=Red>DAC</font>, etc. I also serve as a reviewer for multiple computer vision, artificial intelligence and machine learning conferences, including NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, etc.</p>
 </div>
 
 <div style="text-align: justify;">
@@ -45,6 +45,7 @@ layout: page
 
 ## 📮News and Updates
 <p align="justify">
+  [02/2025] Our paper <font color=BlueViolet>UIBDiffusion: Universal Imperceptible Backdoor Attack for Diffusion Models</font> is accepted by 2025 Conference on Computer Vision and Pattern Recognition (<font color=Red>CVPR</font>). We will release the final paper and code soon. Stay tuned!
   [10/2024] I joined the National University of Singapore as a Research Fellow, working on synthetic tabular data and the security of generative models.<br>
   [05/2024] I'm Dr. Zhao now.<br>
   [02/2024] I passed my PhD defense.<br>
