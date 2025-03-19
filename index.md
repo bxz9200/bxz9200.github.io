@@ -45,7 +45,7 @@ layout: page
 
 ## 📮News and Updates
 <p align="justify">
-  [03/2025] I developed a simple tool to download and summarize CVPR2025 accepted papers with user-defined keywords using vibe coding. The link is <a href="(https://github.com/bxz9200/CVPR2025-Paper-Summarizer)">[<font color=BlueVioletViolet>here</font>]<a><br>
+  [03/2025] I developed a simple tool to download and summarize CVPR2025 accepted papers with user-defined keywords using vibe coding. The link is <a href="(https://github.com/bxz9200/CVPR2025-Paper-Summarizer)"><font color=BlueVioletViolet>here</font><a>.<br>
   [02/2025] Our paper <a href="https://arxiv.org/pdf/2412.11441"><font color=BlueViolet>UIBDiffusion: Universal Imperceptible Backdoor Attack for Diffusion Models</font></a> is accepted by 2025 Conference on Computer Vision and Pattern Recognition (<font color=Red>CVPR</font>). We will release the final paper and code soon. Stay tuned!<br>
   [10/2024] I joined the National University of Singapore as a Research Fellow, working on synthetic tabular data and the security of generative models.<br>
   [05/2024] I'm Dr. Zhao now.<br>
