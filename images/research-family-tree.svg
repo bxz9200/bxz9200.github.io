@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="boxGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f0f8ff" />
+      <stop offset="100%" stop-color="#e6f0ff" />
+    </linearGradient>
+    <filter id="dropShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="3" dy="3" stdDeviation="2" flood-opacity="0.3" />
+    </filter>
+  </defs>
+
+  <!-- Connection lines -->
+  <line x1="400" y1="100" x2="400" y2="170" stroke="#666" stroke-width="2" stroke-dasharray="5,3" />
+  <line x1="400" y1="230" x2="400" y2="300" stroke="#666" stroke-width="2" stroke-dasharray="5,3" />
+  <line x1="400" y1="360" x2="400" y2="430" stroke="#666" stroke-width="2" stroke-dasharray="5,3" />
+  <line x1="400" y1="490" x2="400" y2="560" stroke="#666" stroke-width="2" stroke-dasharray="5,3" />
+  
+  <!-- Arrow markers -->
+  <polygon points="400,170 396,162 404,162" fill="#666" />
+  <polygon points="400,300 396,292 404,292" fill="#666" />
+  <polygon points="400,430 396,422 404,422" fill="#666" />
+  <polygon points="400,560 396,552 404,552" fill="#666" />
+  
+  <!-- PhD Advisor labels -->
+  <text x="420" y="145" font-family="Arial" font-size="12" fill="#555" font-weight="bold">PhD Advisor</text>
+  <text x="420" y="275" font-family="Arial" font-size="12" fill="#555" font-weight="bold">PhD Advisor</text>
+  <text x="420" y="405" font-family="Arial" font-size="12" fill="#555" font-weight="bold">PhD Advisor</text>
+  <text x="420" y="535" font-family="Arial" font-size="12" fill="#555" font-weight="bold">PhD Advisor</text>
+
+  <!-- Node 1: Dr. Thomas B.A. Senior -->
+  <rect x="200" y="40" width="400" height="60" rx="10" ry="10" fill="url(#boxGradient)" stroke="#4682b4" stroke-width="2" filter="url(#dropShadow)" />
+  <text x="400" y="60" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Dr. Thomas B.A. Senior</text>
+  <text x="400" y="78" font-family="Arial" font-size="12" text-anchor="middle">Professor Emeritus, University of Michigan</text>
+  <text x="400" y="94" font-family="Arial" font-size="12" text-anchor="middle" font-style="italic">Professor Emeritus, University of Michigan</text>
+
+  <!-- Node 2: Dr. David G. Messerschmitt -->
+  <rect x="200" y="170" width="400" height="60" rx="10" ry="10" fill="url(#boxGradient)" stroke="#4682b4" stroke-width="2" filter="url(#dropShadow)" />
+  <text x="400" y="190" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Dr. David G. Messerschmitt</text>
+  <text x="400" y="208" font-family="Arial" font-size="12" text-anchor="middle">PhD under: Dr. Thomas B.A. Senior (Univ. of Michigan)</text>
+  <text x="400" y="224" font-family="Arial" font-size="12" text-anchor="middle" font-style="italic">Former EECS Chair, UC Berkeley</text>
+
+  <!-- Node 3: Dr. Keshab K. Parhi -->
+  <rect x="200" y="300" width="400" height="60" rx="10" ry="10" fill="url(#boxGradient)" stroke="#4682b4" stroke-width="2" filter="url(#dropShadow)" />
+  <text x="400" y="320" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Dr. Keshab K. Parhi</text>
+  <text x="400" y="338" font-family="Arial" font-size="12" text-anchor="middle">PhD under: Dr. David G. Messerschmitt (UC Berkeley, 1988)</text>
+  <text x="400" y="354" font-family="Arial" font-size="12" text-anchor="middle" font-style="italic">Erwin A. Kelen Chair, Univ. of Minnesota</text>
+
+  <!-- Node 4: Dr. Yingjie Lao -->
+  <rect x="200" y="430" width="400" height="60" rx="10" ry="10" fill="url(#boxGradient)" stroke="#4682b4" stroke-width="2" filter="url(#dropShadow)" />
+  <text x="400" y="450" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Dr. Yingjie Lao</text>
+  <text x="400" y="468" font-family="Arial" font-size="12" text-anchor="middle">PhD under: Dr. Keshab K. Parhi (Univ. of Minnesota, 2015)</text>
+  <text x="400" y="484" font-family="Arial" font-size="12" text-anchor="middle" font-style="italic">Associate Professor, Tufts University (prev. Clemson)</text>
+
+  <!-- Node 5: Bingyin Zhao -->
+  <rect x="200" y="560" width="400" height="60" rx="10" ry="10" fill="url(#boxGradient)" stroke="#4682b4" stroke-width="2" filter="url(#dropShadow)" />
+  <text x="400" y="580" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Bingyin Zhao</text>
+  <text x="400" y="598" font-family="Arial" font-size="12" text-anchor="middle">PhD under: Dr. Yingjie Lao</text>
+  <text x="400" y="614" font-family="Arial" font-size="12" text-anchor="middle" font-style="italic">Research Fellow, National University of Singapore</text>
+
+  <!-- Title -->
+  <text x="400" y="20" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle">Academic Research Family Tree</text>
+</svg>
