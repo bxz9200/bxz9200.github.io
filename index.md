@@ -21,7 +21,7 @@ layout: page
 <p>I hope for world peace and that human beings live long and prosper.</p>
 </div>
 
-<img src="https://github.com/bxz9200/bxz9200.github.io/blob/main/images/research-family-tree.svg" alt="Research Family Tree" style="height: 50%;"/>
+<img src="https://github.com/bxz9200/bxz9200.github.io/blob/main/images/research-family-tree.svg" alt="Research Family Tree" width="400" height="800"/>
 <br>
 
 ## 🧑‍🎓Education Background
