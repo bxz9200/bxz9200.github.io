@@ -22,7 +22,7 @@ layout: page
 </div>
 
 
-<img src="https://github.com/user-attachments/assets/e20d1b5e-5659-48e6-87ef-0a360d488727" alt="image" width="400"/>
+<img src="https://github.com/user-attachments/assets/02df1b52-8d1c-42bf-93ef-cb3b38bd4c9b" alt="image" width="400"/>
 
 
 <br>
