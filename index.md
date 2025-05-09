@@ -21,7 +21,7 @@ layout: page
 <p>I hope for world peace and that human beings live long and prosper.</p>
 </div>
 
-![Research Tree](research-family-tree.svg)
+![Research Tree](https://github.com/bxz9200/bxz9200.github.io/blob/main/images/research-family-tree.svg)
 
 <br>
 
