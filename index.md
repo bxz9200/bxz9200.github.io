@@ -21,7 +21,7 @@ layout: page
 <p>I hope for world peace and that human beings live long and prosper.</p>
 </div>
 
-![image](https://github.com/user-attachments/assets/5c628a8a-b378-4537-92b4-68ee09463194)
+<img src="https://github.com/user-attachments/assets/5c628a8a-b378-4537-92b4-68ee09463194" alt="image" width="400"/>
 
 
 <br>
