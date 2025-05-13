@@ -20,11 +20,6 @@ layout: page
 <div style="text-align: justify;">
 <p>I hope for world peace and that human beings live long and prosper.</p>
 </div>
-
-
-<img src="images/ResearchFamilyTree.png" alt="image" width="400"/>
-
-
 <br>
 
 ## 🧑‍🎓Education Background
