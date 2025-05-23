@@ -44,7 +44,7 @@ layout: page
 
 ## 📮News and Updates
 <p align="justify">
-  [02/2025] Our paper <a href="https://arxiv.org/pdf/2412.11441"><font color=BlueViolet>UIBDiffusion: Universal Imperceptible Backdoor Attack for Diffusion Models</font></a> is accepted by 2025 Conference on Computer Vision and Pattern Recognition (<font color=Red>CVPR, selected as highlight, 387 out of 13008 = 3%</font>). <a href="(https://github.com/TheLaoLab/UIBDiffusion)">[<font color=BlueVioletViolet>Code</font>]<a><br>
+  [02/2025] Our paper <a href="https://arxiv.org/pdf/2412.11441"><font color=BlueViolet>UIBDiffusion: Universal Imperceptible Backdoor Attack for Diffusion Models</font></a> is accepted by 2025 Conference on Computer Vision and Pattern Recognition (<font color=Red>CVPR, selected as highlight, 387 out of 13008 = 3%</font>). <a href="https://github.com/TheLaoLab/UIBDiffusion">[<font color=Blue>TheLaoLab</font>]<a><br>
   [10/2024] I joined the National University of Singapore as a Research Fellow, working on synthetic tabular data and the security of generative models.<br>
   [05/2024] I'm Dr. Zhao now.<br>
   [02/2024] I passed my PhD defense.<br>
