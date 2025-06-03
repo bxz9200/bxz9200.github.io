@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Full list in [Google Scholar](https://scholar.google.com/citations?user=wAOPAEoAAAAJ&hl=en)
+Full list in [Google Scholar](https://scholar.google.com/citations?user=YJZa7NoAAAAJ&hl=en)
 
 
 ## Conference Publications ("*": equal contribution)
