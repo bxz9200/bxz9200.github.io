@@ -30,8 +30,8 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=wAOPAEoA
 ---
 
 ## Patent
-
--**Bingyin Zhao**, Jose M. Alvarez, Anima Anandkumar, Shiyi Lan, Zhiding Yu. [Fully Attentional Networks with Self-emerging Token Labeling.](https://patents.google.com/patent/US20250078489A1/en) U.S. Patent Application 18/542,423.
+<p align="justify">
+[U.S. Patent Application 18/542,423] **Bingyin Zhao**, Jose M. Alvarez, Anima Anandkumar, Shiyi Lan, Zhiding Yu. [Fully Attentional Networks with Self-emerging Token Labeling.](https://patents.google.com/patent/US20250078489A1/en).</p>
 
 
 <!---
