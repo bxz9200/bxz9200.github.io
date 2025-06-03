@@ -25,6 +25,14 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=wAOPAEoA
 <p align="justify">
 [<font color=Red>TCAD'23</font>] <font color=LigthSykBlue>Bingyin Zhao</font>, Ling Qiu, and Yingjie Lao, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10077732"><font color=BlueViolet>Data-Driven Feature Selection Framework for Approximate Circuit Design</font>.</a> In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.</p>
 
+<br>
+
+---
+
+## Patent
+
+-**Bingyin Zhao**, Jose M. Alvarez, Anima Anandkumar, Shiyi Lan, Zhiding Yu. [Fully Attentional Networks with Self-emerging Token Labeling.](https://patents.google.com/patent/US20250078489A1/en) U.S. Patent Application 18/542,423.
+
 
 <!---
 <br>
