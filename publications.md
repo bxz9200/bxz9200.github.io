@@ -11,11 +11,11 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=YJZa7NoA
 
 ## Conference Publications ("*": equal contribution)
 <p align="justify">
-[<font color=Red>CVPR'25</font>] Yuning Han*, <font color=LigthSykBlue>Bingyin Zhao*</font>, Rui Chu, Feng Luo, Biplab Sikdar, and Yingjie Lao, <a href="https://arxiv.org/pdf/2412.11441"><font color=BlueViolet>UIBDiffusion: Universal Imperceptible Backdoor Attack for Diffusion Models</font>.</a> In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.<br>
-[<font color=Red>ICCV'23</font>] <font color=LigthSykBlue>Bingyin Zhao</font>, Zhiding Yu, Shiyi Lan, Yutao Cheng, Anima Anandkumar, Yingjie Lao, and Jose M. Alvarez, <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Fully_Attentional_Networks_with_Self-emerging_Token_Labeling_ICCV_2023_paper.pdf"><font color=BlueViolet>Fully Attentional Networks with Self-emerging Token Labeling</font>.</a> In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), pp. 5585-5595, 2023.<br>
-[<font color=Red>DAC'23</font>] Antian Wang, <font color=LigthSykBlue>Bingyin Zhao</font>, Weihang Tan, and Yingjie Lao, <a href="https://ieeexplore.ieee.org/abstract/document/10247885"><font color=BlueViolet>NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation</font>.</a> In 2023 60th ACM/IEEE Design Automation Conference (DAC), pp. 1-6, 2023.<br>
-[<font color=Red>AAAI'22</font>] <font color=LigthSykBlue>Bingyin Zhao</font>, Yingjie Lao, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20902"><font color=BlueViolet>CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets</font>.</a> In Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22), pp. 9162-9170, 2022.<br>
-[<font color=Red>WACV'22</font>] <font color=LigthSykBlue>Bingyin Zhao</font>, Yingjie Lao, <a href="https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf"><font color=BlueViolet>Towards Class-oriented Poisoning Attacks against Neural Networks</font>.</a> In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pp. 3741-3750, 2022.</p>
+[<font color=Red>CVPR'25</font>] Yuning Han*, <font color=LigthSykBlue>Bingyin Zhao*</font>, Rui Chu, Feng Luo, Biplab Sikdar, and Yingjie Lao, <a href="https://arxiv.org/pdf/2412.11441"><font color=Purple>UIBDiffusion: Universal Imperceptible Backdoor Attack for Diffusion Models</font>.</a> In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.<br>
+[<font color=Red>ICCV'23</font>] <font color=LigthSykBlue>Bingyin Zhao</font>, Zhiding Yu, Shiyi Lan, Yutao Cheng, Anima Anandkumar, Yingjie Lao, and Jose M. Alvarez, <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Fully_Attentional_Networks_with_Self-emerging_Token_Labeling_ICCV_2023_paper.pdf"><font color=Purple>Fully Attentional Networks with Self-emerging Token Labeling</font>.</a> In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), pp. 5585-5595, 2023.<br>
+[<font color=Red>DAC'23</font>] Antian Wang, <font color=LigthSykBlue>Bingyin Zhao</font>, Weihang Tan, and Yingjie Lao, <a href="https://ieeexplore.ieee.org/abstract/document/10247885"><font color=Purple>NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation</font>.</a> In 2023 60th ACM/IEEE Design Automation Conference (DAC), pp. 1-6, 2023.<br>
+[<font color=Red>AAAI'22</font>] <font color=LigthSykBlue>Bingyin Zhao</font>, Yingjie Lao, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20902"><font color=Purple>CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets</font>.</a> In Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22), pp. 9162-9170, 2022.<br>
+[<font color=Red>WACV'22</font>] <font color=LigthSykBlue>Bingyin Zhao</font>, Yingjie Lao, <a href="https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf"><font color=Purple>Towards Class-oriented Poisoning Attacks against Neural Networks</font>.</a> In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pp. 3741-3750, 2022.</p>
 
 <br>
 
@@ -23,7 +23,7 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=YJZa7NoA
 
 ## Journal Publications
 <p align="justify">
-[<font color=Red>TCAD'23</font>] <font color=LigthSykBlue>Bingyin Zhao</font>, Ling Qiu, and Yingjie Lao, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10077732"><font color=BlueViolet>Data-Driven Feature Selection Framework for Approximate Circuit Design</font>.</a> In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.</p>
+[<font color=Red>TCAD'23</font>] <font color=LigthSykBlue>Bingyin Zhao</font>, Ling Qiu, and Yingjie Lao, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10077732"><font color=Purple>Data-Driven Feature Selection Framework for Approximate Circuit Design</font>.</a> In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.</p>
 
 <br>
 
@@ -31,7 +31,7 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=YJZa7NoA
 
 ## Patent
 <p align="justify">
-[<font color=Red>U.S. Patent Application 18/542,423</font>] <font color=LigthSykBlue>Bingyin Zhao</font>, Jose M. Alvarez, Anima Anandkumar, Shiyi Lan, Zhiding Yu. <a href="https://patents.google.com/patent/US20250078489A1/en"><font color=BlueViolet>Fully Attentional Networks with Self-emerging Token Labeling</font>.
+[<font color=Red>U.S. Patent Application 18/542,423</font>] <font color=LigthSykBlue>Bingyin Zhao</font>, Jose M. Alvarez, Anima Anandkumar, Shiyi Lan, Zhiding Yu. <a href="https://patents.google.com/patent/US20250078489A1/en"><font color=Purple>Fully Attentional Networks with Self-emerging Token Labeling</font>.
 
 
 <!---
