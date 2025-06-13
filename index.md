@@ -5,11 +5,11 @@ layout: page
 # About Me
 <div style="text-align: justify;">
   
-<p>My name is Bingyin Zhao (赵秉崟). I am a <font color=LigthSykBlue>Research Fellow</font> at the <font color=Black>National University of Singapore</font>, working with <a href="https://cde.nus.edu.sg/ece/staff/biplab-sikdar/">Dr. Biplab Sikdar</a>. I earned my Ph.D. in Computer Engineering from <font color=Black>Clemson University</font> in the United States under the supervision of <a href="https://laogroup.ece.tufts.edu/">Dr. Yingjie Lao</a>.</p>
+<p>My name is Bingyin Zhao (赵秉崟). I am an <font color=LigthSykBlue>Applied Scientist</font> at the <font color=BlueViolet>Pixocial</font>, working on image and video generation and editing. I earned my Ph.D. in Computer Engineering from <font color=Black>Clemson University</font> in the United States under the supervision of <a href="https://laogroup.ece.tufts.edu/">Dr. Yingjie Lao</a>.</p>
 </div>
 
 <div style="text-align: justify;">
-<p>I worked as a <font color=LigthSykBlue>Deep Learning Software and Research Intern</font> at <font color="DarkGreen">NVIDIA</font> under the supervision of <a href="https://alvarezlopezjosem.github.io/">Dr. Jose M. Alvarez</a> and  <a href="https://chrisding.github.io/">Dr. Zhiding Yu</a>. I received a full-time offer as a <font color=LigthSykBlue>Senior System Software Engineer</font> from <font color="DarkGreen">NVIDIA</font> after the internship but could not return to the U.S. due to an unexpected visa issue when I came back to visit my family in China. I then relocated to Singapore. Thank you Singapore for having me and I love this great place!</p>
+<p>I worked as a <font color=LigthSykBlue>Deep Learning Software and Research Intern</font> at <font color="DarkGreen">NVIDIA</font> under the supervision of <a href="https://alvarezlopezjosem.github.io/">Dr. Jose M. Alvarez</a> and  <a href="https://chrisding.github.io/">Dr. Zhiding Yu</a>. I received a full-time offer as a <font color=LigthSykBlue>Senior System Software Engineer</font> from <font color="DarkGreen">NVIDIA</font> after the internship but could not return to the U.S. due to an unexpected visa issue when I came back to visit my family in China. I then relocated to Singapore and worked as a <font color=LigthSykBlue>Research Fellow</font> at the <font color=Black>National University of Singapore</font> with <a href="https://cde.nus.edu.sg/ece/staff/biplab-sikdar/">Dr. Biplab Sikdar</a>. Thank you Singapore for having me and I love this great place!</p>
 </div>
 
 
