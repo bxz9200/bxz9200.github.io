@@ -44,7 +44,7 @@ layout: page
 
 ## 📮News and Updates
 <p align="justify">
-  [06/2025] I will join <font color=BlueViolet>Pixocial</font> as a <font color=LigthSykBlue>Applied Scientist</font> and work on image/video generation/editing.<br>
+  [06/2025] I will join <font color=BlueViolet>Pixocial</font> as an <font color=LigthSykBlue>Applied Scientist</font> and work on image/video generation/editing.<br>
   [03/2025] My first US patent <a href="https://patents.google.com/patent/US20250078489A1/en"><font color=Purple>Fully Attentional Networks with Self-emerging Token Labeling</font></a>. I'm super grateful to my mentor <a href="https://chrisding.github.io/">Zhiding</a>, <a href="https://voidrank.github.io/">Shiyi</a>, and my manager <a href="https://alvarezlopezjosem.github.io/">Jose</a> at <font color=Green>NVIDIA</font>.<br>
   [02/2025] Our paper <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Han_UIBDiffusion_Universal_Imperceptible_Backdoor_Attack_for_Diffusion_Models_CVPR_2025_paper.pdf"><font color=Purple>UIBDiffusion: Universal Imperceptible Backdoor Attack for Diffusion Models</font></a> is accepted by 2025 Conference on Computer Vision and Pattern Recognition (<font color=Red>CVPR highlight, acceptance rate = 3%</font>). Code is available at <a href="https://github.com/TheLaoLab/UIBDiffusion"><font color=Blue>TheLaoLab</font><a>.<br>
   [10/2024] I joined the National University of Singapore as a <font color=LigthSykBlue>Research Fellow</font>, working on synthetic tabular data and the security of generative models.<br>
