@@ -5,7 +5,7 @@ layout: page
 # About Me
 <div style="text-align: justify;">
   
-<p>My name is Bingyin Zhao (赵秉崟). I am an <font color=LigthSykBlue>Applied Scientist</font> at <font color=Purple>Pixocial Technology</font> (Subsidiary of <font color=Magenta>Meitu Inc.</font>), under the applied research team led by <a href="https://resume.haoxiang.org/">Dr. Haoxiang Li</a>. I earned my Ph.D. in Computer Engineering from <font color=Black>Clemson University</font> in the United States under the supervision of <a href="https://laogroup.ece.tufts.edu/">Dr. Yingjie Lao</a>.</p>
+<p>My name is Bingyin Zhao (赵秉崟). I am an <font color=LigthSykBlue>Applied Scientist</font> at <font color=Magenta>Meitu Inc.</font>-<font color=Purple>Pixocial Technology</font> (Subsidiary), under the applied research team led by <a href="https://resume.haoxiang.org/">Dr. Haoxiang Li</a>. I earned my Ph.D. in Computer Engineering from <font color=Black>Clemson University</font> in the United States under the supervision of <a href="https://laogroup.ece.tufts.edu/">Dr. Yingjie Lao</a>.</p>
 </div>
 
 <div style="text-align: justify;">
