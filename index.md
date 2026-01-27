@@ -44,7 +44,7 @@ layout: page
 
 ## 📮News and Updates
 <p align="justify">
-  [01/2026] One paper is accepted by AISTATS (<font color="Red">first author</font>).<br>
+  [01/2026] One paper is accepted by AISTATS (<font color="Red">second author</font>).<br>
   [11/2025] One paper is accepted by WACV (<font color="Red">first author</font>).<br>
   [09/2025] One paper is accepted by NeurIPS (<font color="Red">second author</font>).<br>
   [06/2025] I will join <font color=BlueViolet>Pixocial</font> as an <font color=LigthSykBlue>Applied Scientist</font> and work on image/video generation/editing.<br>
