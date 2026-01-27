@@ -44,21 +44,21 @@ layout: page
 
 ## 📮News and Updates
 <p align="justify">
-  [01/2026] One paper is accepted by AISTATS (<font color="Red">second author</font>).<br>
-  [11/2025] One paper is accepted by WACV (<font color="Red">first author</font>).<br>
-  [09/2025] One paper is accepted by NeurIPS (<font color="Red">second author</font>).<br>
+  [01/2026] One paper is accepted by AISTATS.<br>
+  [11/2025] One paper is accepted by WACV.<br>
+  [09/2025] One paper is accepted by NeurIPS.<br>
   [06/2025] I will join <font color=BlueViolet>Pixocial</font> as an <font color=LigthSykBlue>Applied Scientist</font> and work on image/video generation/editing.<br>
   [03/2025] My first US patent <a href="https://patents.google.com/patent/US20250078489A1/en"><font color=Purple>Fully Attentional Networks with Self-emerging Token Labeling</font></a>. I'm super grateful to my mentor <a href="https://chrisding.github.io/">Zhiding</a>, <a href="https://voidrank.github.io/">Shiyi</a>, and my manager <a href="https://alvarezlopezjosem.github.io/">Jose</a> at <font color=Green>NVIDIA</font>.<br>
-  [02/2025] One paper is accepted by CVPR (<font color="Red">first author</font>).<br>
+  [02/2025] One paper is accepted by CVPR.<br>
   [10/2024] I joined the <font color=Orange>National University of Singapore</font> as a <font color=LigthSykBlue>Research Fellow</font>, working on synthetic tabular data generation.<br>
   [05/2024] I'm Dr. Zhao now.<br>
   [02/2024] I passed my PhD defense.<br>
   [01/2024] I received a full-time offer as a <font color=LigthSykBlue>Senior Systems Software Engineer (Gen AI)</font> from <font color=Green>NVIDIA</font>.<br>
-  [07/2023] One paper is accepted by ICCV (<font color="Red">first author</font>).<br>
-  [03/2023] One paper is accepted by DAC (<font color="Red">second author</font>).<br>
+  [07/2023] One paper is accepted by ICCV.<br>
+  [03/2023] One paper is accepted by DAC.<br>
   [05/2022] I will join <font color=Green>NVIDIA</font> as a Deep Learning Software and Research Intern.<br>
-  [12/2021] One paper is accepted by AAAI (<font color="Red">first author</font>).<br>
-  [10/2021] One paper is accepted by WACV (<font color="Red">first author</font>).
+  [12/2021] One paper is accepted by AAAI.<br>
+  [10/2021] One paper is accepted by WACV.
 
 
 <br>
