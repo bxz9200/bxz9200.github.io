@@ -44,20 +44,20 @@ layout: page
 
 ## 📮News and Updates
 <p align="justify">
-  [09/2025] Our paper <a href="https://openreview.net/pdf?id=hCc6obJhlj"><font color=Purple>BAM-ICL: Causal Hijacking In-Context Learning with Budgeted Adversarial Manipulation</font></a> is accepted by Conference on Neural Information Processing Systems (<font color=Red>NeurIPS</font>) 2025. <a href="https://github.com/CRcr0/BAM-ICL">[<font color=Blue>Code</font>]<a><br>
+  [01/2026] One paper is accepted by AISTATS (<font color="Red">first author</font>).<br>
+  [09/2025] One paper is accepted by NeurIPS (<font color="Red">second author</font>).<br>
   [06/2025] I will join <font color=BlueViolet>Pixocial</font> as an <font color=LigthSykBlue>Applied Scientist</font> and work on image/video generation/editing.<br>
   [03/2025] My first US patent <a href="https://patents.google.com/patent/US20250078489A1/en"><font color=Purple>Fully Attentional Networks with Self-emerging Token Labeling</font></a>. I'm super grateful to my mentor <a href="https://chrisding.github.io/">Zhiding</a>, <a href="https://voidrank.github.io/">Shiyi</a>, and my manager <a href="https://alvarezlopezjosem.github.io/">Jose</a> at <font color=Green>NVIDIA</font>.<br>
-  [02/2025] Our paper <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Han_UIBDiffusion_Universal_Imperceptible_Backdoor_Attack_for_Diffusion_Models_CVPR_2025_paper.pdf"><font color=Purple>UIBDiffusion: Universal Imperceptible Backdoor Attack for Diffusion Models</font></a> is accepted by Conference on Computer Vision and Pattern Recognition 2025 (<font color=Red>CVPR highlight, acceptance rate = 3%</font>). Code is available at <a href="https://github.com/TheLaoLab/UIBDiffusion"><font color=Blue>TheLaoLab</font><a>.<br>
+  [02/2025] One paper is accepted by CVPR (<font color="Red">first author</font>).<br>
   [10/2024] I joined the <font color=Orange>National University of Singapore</font> as a <font color=LigthSykBlue>Research Fellow</font>, working on synthetic tabular data generation.<br>
   [05/2024] I'm Dr. Zhao now.<br>
   [02/2024] I passed my PhD defense.<br>
   [01/2024] I received a full-time offer as a <font color=LigthSykBlue>Senior Systems Software Engineer (Gen AI)</font> from <font color=Green>NVIDIA</font>.<br>
-  [07/2023] Our paper <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Fully_Attentional_Networks_with_Self-emerging_Token_Labeling_ICCV_2023_paper.pdf"><font color=Purple>Fully Attentional Networks with Self-emerging Token Labeling</font></a> is accepted by International Conference on Computer Vision (<font color=Red>ICCV</font>) 2023. The code and models can be found at <a href="https://github.com/NVlabs/STL"><font color=Green>NVlabs</font><a>.<br>
-  [03/2023] Our paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10077732"><font color=Purple>Data-Driven Feature Selection Framework for Approximate Circuit Design</font><a> is accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (<font color=Red>TCAD</font>).<br>
-  [02/2023] Our paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247885"><font color=Purple>NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation</font><a> is accepted by the 60th Design Automation Conference (<font color=Red>DAC</font>).<br>
+  [07/2023] One paper is accepted by ICCV (<font color="Red">first author</font>).<br>
+  [03/2023] One paper is accepted by DAC (<font color="Red">second author</font>).<br>
   [05/2022] I will join <font color=Green>NVIDIA</font> as a Deep Learning Software and Research Intern.<br>
-  [12/2021] Our paper <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20902"><font color=Purple>CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets</font><a> is accepted by Thirty-Sixth AAAI Conference on Artificial Intelligence (<font color=Red>AAAI-22</font>). <a href="https://github.com/bxz9200/CLPA">[<font color=Blue>Code</font>]<a><br>
-  [10/2021] Our paper <a href="https://openaccess.thecvf.com/content/WACV2022/papers/Zhao_Towards_Class-Oriented_Poisoning_Attacks_Against_Neural_Networks_WACV_2022_paper.pdf"><font color=Purple>Towards Class-oriented Poisoning Attacks against Neural Networks</font><a> is accepted by Winter Conference on Applications of Computer Vision (<font color=Red>WACV</font>) 2022.
+  [12/2021] One paper is accepted by AAAI (<font color="Red">first author</font>).<br>
+  [10/2021] One paper is accepted by WACV (<font color="Red">first author</font>).
 
 
 <br>
