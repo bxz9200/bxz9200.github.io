@@ -45,7 +45,7 @@ layout: page
 ## 📮News and Updates
 <p align="justify">
   [01/2026] One paper is accepted by AISTATS (<font color="Red">first author</font>).<br>
-  [11/2025] One paper is accepeted by WACV (<font color="Red">first author</font>).<br>
+  [11/2025] One paper is accepted by WACV (<font color="Red">first author</font>).<br>
   [09/2025] One paper is accepted by NeurIPS (<font color="Red">second author</font>).<br>
   [06/2025] I will join <font color=BlueViolet>Pixocial</font> as an <font color=LigthSykBlue>Applied Scientist</font> and work on image/video generation/editing.<br>
   [03/2025] My first US patent <a href="https://patents.google.com/patent/US20250078489A1/en"><font color=Purple>Fully Attentional Networks with Self-emerging Token Labeling</font></a>. I'm super grateful to my mentor <a href="https://chrisding.github.io/">Zhiding</a>, <a href="https://voidrank.github.io/">Shiyi</a>, and my manager <a href="https://alvarezlopezjosem.github.io/">Jose</a> at <font color=Green>NVIDIA</font>.<br>
