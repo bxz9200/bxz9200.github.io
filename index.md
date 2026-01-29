@@ -47,13 +47,13 @@ layout: page
   [01/2026] One paper is accepted by AISTATS.<br>
   [11/2025] One paper is accepted by WACV.<br>
   [09/2025] One paper is accepted by NeurIPS.<br>
-  [06/2025] I will join <font color=BlueViolet>Pixocial</font> as an <font color=LigthSykBlue>Applied Scientist</font> and work on image/video generation/editing.<br>
+  [06/2025] I will join <font color=BlueViolet>Pixocial</font> as an Applied Scientist.<br>
   [03/2025] My first US patent: <a href="https://patents.google.com/patent/US20250078489A1/en"><font color=Purple>Fully Attentional Networks with Self-emerging Token Labeling</font></a>.<br>
   [02/2025] One paper is accepted by CVPR.<br>
-  [10/2024] I joined the <font color=Orange>National University of Singapore</font> as a <font color=LigthSykBlue>Research Fellow</font>, working on synthetic tabular data generation.<br>
+  [10/2024] I joined the <font color=Orange>NUS</font> as a Research Fellow.<br>
   [05/2024] I'm Dr. Zhao now.<br>
   [02/2024] I passed my PhD defense.<br>
-  [01/2024] I received a full-time offer as a <font color=LigthSykBlue>Senior Systems Software Engineer (Gen AI)</font> from <font color=Green>NVIDIA</font>.<br>
+  [01/2024] I received a full-time offer as a Senior Systems Software Engineer (Gen AI) from <font color=Green>NVIDIA</font>.<br>
   [07/2023] One paper is accepted by ICCV.<br>
   [03/2023] One paper is accepted by DAC.<br>
   [05/2022] I will join <font color=Green>NVIDIA</font> as a Deep Learning Software and Research Intern.<br>
