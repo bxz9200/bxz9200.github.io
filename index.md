@@ -50,7 +50,7 @@ layout: page
   [06/2025] I will join <font color=BlueViolet>Pixocial</font> as an Applied Scientist.<br>
   [03/2025] My first US patent: <a href="https://patents.google.com/patent/US20250078489A1/en"><font color=Purple>Fully Attentional Networks with Self-emerging Token Labeling</font></a>.<br>
   [02/2025] One paper is accepted by CVPR.<br>
-  [10/2024] I joined the <font color=Orange>NUS</font> as a Research Fellow.<br>
+  [10/2024] I joined <font color=Orange>NUS</font> as a Research Fellow.<br>
   [05/2024] I'm Dr. Zhao now.<br>
   [02/2024] I passed my PhD defense.<br>
   [01/2024] I received a full-time offer as a Senior Systems Software Engineer (Gen AI) from <font color=Green>NVIDIA</font>.<br>
